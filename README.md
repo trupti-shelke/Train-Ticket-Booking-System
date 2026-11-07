@@ -11,19 +11,21 @@ Cancel Booking
 Update Train Fare
 Delete Train
 Database Connectivity using JDBC
+
 Technologies Used
 Java
 JDBC
 MySQL
 Maven
 OOP Concepts
+
 Project Structure
 Entity Layer
 DAO Layer
 Service Layer
 Database Layer
 Project Description
-This project is designed to manage train and ticket booking operations. Users can add and manage train records, search available trains, book tickets, view booking details, and cancel bookings. JDBC is used for database connectivity, MySQL is used for data storage, and Maven is used for dependency management and project build configuration.
+This project is designed to manage train and ticket booking operations. Users can add trains, search trains, book tickets, view bookings, cancel bookings, update train fares, and delete train records. JDBC is used to connect with the MySQL database, while Maven is used for dependency management and project configuration.
 
 Learning Outcomes
 Core Java Programming
